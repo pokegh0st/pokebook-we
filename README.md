@@ -1,2 +1,1 @@
-# pokebook-we
-[WIP] PokeBook Workstation Edition
+# PokeBook Workstation Edition
